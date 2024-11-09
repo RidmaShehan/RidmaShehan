@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ridma shehan" target="blank"><img src="https://img.shields.io/twitter/follow/ridma shehan?logo=twitter&style=for-the-badge" alt="ridma shehan" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Framework , JAVA , C# , OOP , PHP , SQL**
+- 🌱 I’m currently learning **.NET Framework , JAVA , C# , OOP , PHP , SQL , Dart , Flutter** 
 
 - 📫 How to reach me **ridmashehan22@gmail.com**
 
